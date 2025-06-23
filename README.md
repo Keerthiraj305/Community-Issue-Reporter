@@ -1,4 +1,4 @@
-# 🏛️ BBMP Community Issue Reporter
+# 🏛️ Community Issue Reporter
 
 A full-stack web application for Bangalore citizens to report civic issues directly to BBMP (Bruhat Bengaluru Mahanagara Palike). Built with React frontend and Node.js/Express backend.
 
