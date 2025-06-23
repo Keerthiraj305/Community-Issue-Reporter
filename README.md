@@ -71,6 +71,8 @@ PORT=5000
 ```bash
 cd ../issue-tracker-frontend
 npm install
+# or
+node server.js
 ```
 
 ### 4. Start the Application
